@@ -1,0 +1,7 @@
+{
+  "description": "Invoke Fargate ECS tasks from CloudWatch Events",
+  "runtime": "python3.6",
+  "handler": "main.handler",
+  "memory": 128,
+  "timeout": 30
+}

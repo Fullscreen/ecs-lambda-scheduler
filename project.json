@@ -1,0 +1,5 @@
+{
+  "name": "ecs-lambda-scheduler",
+  "description": "Invoke Fargate ECS tasks from CloudWatch Events",
+  "nameTemplate": "{{.Project.Name}}"
+}
